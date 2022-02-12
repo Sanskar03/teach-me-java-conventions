@@ -1,4 +1,4 @@
-package powerpackage;
+import powerpackage.FindPower;
 
 
 import org.junit.Test;
